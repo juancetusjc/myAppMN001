@@ -1,0 +1,7 @@
+micronaut:
+    application:
+        name: my-app
+                
+#Uncomment to set server port
+#    server:
+#        port: 8080
